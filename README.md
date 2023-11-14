@@ -52,6 +52,7 @@ This repository was created using the contents from Deeplearning.ai's courses.
 
 **Introduction**:
 In natural language processing, prompts have gained popularity as a technique to refine language models for specific tasks. A prompt, a brief text input, serves as a starting point for the model to generate responses based on its training. Developers employ prompts for tasks like text generation, question-answering, sentiment analysis, and language translation. Tailoring prompts allows fine-tuning model behavior for enhanced performance in distinct domains. This approach marks a pivotal advancement in natural language processing, offering potential for the future development of more sophisticated language models.
+
 There are two types of LLMS-
 Base LLMs - That predict the next word. For eg, If asked what's the capital of France?, It predicts Which is the largest city in France?....
 
